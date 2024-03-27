@@ -15,7 +15,7 @@ let gridSize = 20;  // total area of the game-board -->gridSize*gridSize
 let food = generateFood();
 let direction = 'right'; //To move the snake
 let gameInterval; // For to maintain game speed iguess
-let gameSpeedDelay = 300;
+let gameSpeedDelay = 150;
 let gameStarted = false ;
 let scoreText = 0;
 let highScoreText = 0;
