@@ -149,12 +149,12 @@ button:active{
     .instruction-text{
         font-size: 25px;
         width: 250px;
-        top: 60%;
+        top: 52%;
     }
 
     .snake-logo{
         width: 180px;
-        top: 30%;
+        top: 25%;
     }
 
     .game-border-3{
